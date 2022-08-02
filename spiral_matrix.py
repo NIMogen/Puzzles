@@ -5,9 +5,7 @@ Given an MxN matrix, return the a list of the elements of the
 matrix in spiral order.
 Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
 Output: [1,2,3,6,9,8,7,4,5]
-
-The fact that we don't have to modify the matrix in place eliminates alot
-of the busywork...
+Matrix elements are guranteed to be < 100
 """
 PASSED = 101
 
